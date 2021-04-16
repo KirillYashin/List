@@ -1,6 +1,6 @@
 #pragma once 
 #include "Element.h"
-#include "../Exception/Exception.h"
+#include <Exception.h>
 #include <iostream>
 
 template <class T>
